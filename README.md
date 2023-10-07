@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn-icons-png.flaticon.com/512/1803/1803675.png"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhpejlrZml5MXRwa2o4bWJiMXp5YmdhdzU5bGVoODdwd2FhaXV0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif"  />
 </div>
 
 ###
@@ -25,11 +25,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/matteus130/matteus130/output/snake.svg" alt="Snake animation" />
 
 ###
 
