@@ -25,7 +25,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/matteus130/matteus130/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/svg-only@v3" alt="Snake animation" />
 
 ###
 
